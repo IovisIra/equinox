@@ -7,7 +7,7 @@ title: LifeList
 | [[Buchfink]]       |                        | +      | +       |              |
 | [[Eichelhäher]]    |                        | +      | +       |              |
 | [[Kohlmeise]]      |                        | +      | +       |              |
-| [[Kranich]]        |                        | +      | +       |              |
+| [[Kranich]]        | [[2026-11-08 Sonntag]] | +      | +       |              |
 | [[Rabenkrähe]]     |                        | +      | +       |              |
 | [[Sumpfmeise]]     | [[2026-11-08 Sonntag]] | +      | +       |              |
 | [[Waldbaumläufer]] |                        | +      | +       | +            |
