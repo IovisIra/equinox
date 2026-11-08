@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vogelbeobachtungen/eieie.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,6 +194,7 @@
   "lastOpenFiles": [
     "Vogelarten/Waldbaumläufer.md",
     "Vogelbeobachtungen/eieie.md",
+    "Waldbaumläufer^08112026.md",
     "category-folder/Some note.md",
     "Vogelarten",
     "Vogelbeobachtungen",
