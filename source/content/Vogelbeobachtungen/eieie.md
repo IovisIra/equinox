@@ -1,3 +1,3 @@
 
 eieiei
-![[Waldbaumläufer#^trtr|]]
+![[Waldbaumläufer#^trtr]]
