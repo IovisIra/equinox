@@ -1,9 +1,13 @@
 ---
-title: My GitHub Pages Notebook!
+title: LifeList
 ---
 
-Hello world!
-
-Write some words here!
-,o,o,o,
-eiei
+| Art                | Erstbeobachtung        | Gehört | Gesehen | Fotografiert |
+| ------------------ | ---------------------- | ------ | ------- | ------------ |
+| [[Buchfink]]       |                        | +      | +       |              |
+| [[Eichelhäher]]    |                        | +      | +       |              |
+| [[Kohlmeise]]      |                        | +      | +       |              |
+| [[Kranich]]        |                        | +      | +       |              |
+| [[Rabenkrähe]]     |                        | +      | +       |              |
+| [[Sumpfmeise]]     | [[2026-11-08 Sonntag]] | +      | +       |              |
+| [[Waldbaumläufer]] |                        | +      | +       | +            |
