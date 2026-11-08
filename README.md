@@ -1,6 +1,7 @@
 # Obsidian / Quartz / GitHub Pages Template
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+rtrtrt
 
 Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
 
