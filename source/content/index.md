@@ -11,3 +11,4 @@ title: LifeList
 | [[Rabenkrähe]]     |                        | +      | +       |              |
 | [[Sumpfmeise]]     | [[2026-11-08 Sonntag]] | +      | +       |              |
 | [[Waldbaumläufer]] |                        | +      | +       | +            |
+| [[Zaunkönig]]      |                        | +      |         |              |

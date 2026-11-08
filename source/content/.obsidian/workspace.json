@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vogelbeobachtungen/2026-11-08 Sonntag.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -206,9 +206,10 @@
   },
   "active": "c7b42acb29d6bc89",
   "lastOpenFiles": [
-    "Vogelarten/Waldbaumläufer.md",
-    "Vogelbeobachtungen/2026-11-08 Sonntag.md",
     "index.md",
+    "Vogelbeobachtungen/2026-11-08 Sonntag.md",
+    "Vogelarten/Zaunkönig.md",
+    "Vogelarten/Waldbaumläufer.md",
     "Vogelarten/Buchfink.md",
     "Vogelarten/Rabenkrähe.md",
     "Vogelarten/Eichelhäher.md",
