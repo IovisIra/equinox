@@ -1,5 +1,6 @@
 ---
 title: LifeList
+description: Meine persönliche LifeList der beobachteten Vogelarten.
 ---
 
 | Art                | Erstbeobachtung        | Gehört | Gesehen | Fotografiert |
