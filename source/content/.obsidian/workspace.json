@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vogelarten/Waldbaumläufer.md",
+                "file": "Vogelbeobachtungen/eieie.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Waldbaumläufer"
+              "title": "eieie"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vogelarten/Waldbaumläufer.md",
+                "file": "Vogelbeobachtungen/eieie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vogelarten/Waldbaumläufer.md",
+                "file": "Vogelbeobachtungen/eieie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vogelarten/Waldbaumläufer.md",
+                "file": "Vogelbeobachtungen/eieie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,8 +192,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Vogelbeobachtungen/eieie.md",
     "Vogelarten/Waldbaumläufer.md",
+    "Vogelbeobachtungen/eieie.md",
     "category-folder/Some note.md",
     "Vogelarten",
     "Vogelbeobachtungen",
