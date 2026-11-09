@@ -4,10 +4,7 @@
 button#explorer {
   display: none !important;
 }
-/* Quartz 4 Transklusionen (Einbettungen) ohne Rahmen */
-.transclusion,
-blockquote.transclusion,
-.internal-embed {
+blockquote.transclude {
   border: none !important;
   background: transparent !important;
   padding: 0 !important;
@@ -15,8 +12,13 @@ blockquote.transclusion,
   box-shadow: none !important;
 }
 
-/* Titel ausblenden in Quartz */
-.transclusion-title,
-.internal-embed-title {
+/* 2. Verhindert, dass zusätzliche Absatz-Abstände um das Bild entstehen */
+blockquote.transclude p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 3. Blendet den "Link to original"-Text und das zugehörige Popover komplett aus */
+blockquote.transclude a.transclude-src {
   display: none !important;
 }
