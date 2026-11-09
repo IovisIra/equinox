@@ -32,27 +32,33 @@ export const defaultContentPageLayout: PageLayout = {
           title: "", // Entfernt die Hauptüberschrift ("Explorer")
           folderDefaultState: "open", // Hält die Ordner immer geöffnet
           sortFn: (a, b) => {
-            // 1. Ordner auf der obersten Ebene sortieren: "vogelbeobachtungen" VOR "vogelarten"
+            // 1. Ordner auf der obersten Ebene sortieren
             if (!a.file && !b.file) {
-              if (a.name === "vogelbeobachtungen" && b.name === "vogelarten") return -1
-              if (a.name === "vogelarten" && b.name === "vogelbeobachtungen") return 1
+              const nameA = a.name.toLowerCase()
+              const nameB = b.name.toLowerCase()
+              if (nameA === "vogelbeobachtungen" && nameB === "vogelarten") return -1
+              if (nameA === "vogelarten" && nameB === "vogelbeobachtungen") return 1
             }
 
-            // 2. Umgekehrte Sortierung (Z-A) nur für Dateien im Ordner "vogelbeobachtungen"
-            const slugA = a.file?.slug || ""
-            const slugB = b.file?.slug || ""
+            // 2. Umgekehrte Sortierung (Z-A) für Dateien in "vogelbeobachtungen"
+            const slugA = a.file?.slug?.toLowerCase() || ""
+            const slugB = b.file?.slug?.toLowerCase() || ""
 
-            if (slugA.startsWith("vogelbeobachtungen/") && slugB.startsWith("vogelbeobachtungen/")) {
-              return b.displayName.localeCompare(a.displayName) // b vergleicht mit a = rückwärts
+            if (slugA.includes("vogelbeobachtungen") && slugB.includes("vogelbeobachtungen")) {
+              const titleA = a.displayName || a.name
+              const titleB = b.displayName || b.name
+              return titleB.localeCompare(titleA) // b vergleicht mit a = rückwärts
             }
 
-            // 3. Standard-Sortierung für "vogelarten" und alles andere
+            // 3. Standard-Sortierung für alles andere
             // Zuerst Ordner vor Dateien
             if (a.file && !b.file) return 1
             if (!a.file && b.file) return -1
 
             // Dann alphabetisch A-Z
-            return a.displayName.localeCompare(b.displayName)
+            const titleA = a.displayName || a.name
+            const titleB = b.displayName || b.name
+            return titleA.localeCompare(titleB)
           },
         })
     ),
