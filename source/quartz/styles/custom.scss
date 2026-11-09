@@ -4,19 +4,19 @@
 button#explorer {
   display: none !important;
 }
-.internal-embed,
-.markdown-embed {
+/* Quartz 4 Transklusionen (Einbettungen) ohne Rahmen */
+.transclusion,
+blockquote.transclusion,
+.internal-embed {
   border: none !important;
-  background-color: transparent !important;
+  background: transparent !important;
   padding: 0 !important;
   margin: 0 !important;
   box-shadow: none !important;
 }
 
-/* Blendet den Titel und das Link-Symbol der eingebetteten Notiz aus */
-.internal-embed .markdown-embed-title,
-.internal-embed .markdown-embed-link,
-.markdown-embed-title,
-.markdown-embed-link {
+/* Titel ausblenden in Quartz */
+.transclusion-title,
+.internal-embed-title {
   display: none !important;
 }
