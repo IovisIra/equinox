@@ -4,3 +4,19 @@
 button#explorer {
   display: none !important;
 }
+.internal-embed,
+.markdown-embed {
+  border: none !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Blendet den Titel und das Link-Symbol der eingebetteten Notiz aus */
+.internal-embed .markdown-embed-title,
+.internal-embed .markdown-embed-link,
+.markdown-embed-title,
+.markdown-embed-link {
+  display: none !important;
+}
