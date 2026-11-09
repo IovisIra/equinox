@@ -1,5 +1,6 @@
 ---
 title: Sumpfmeise
+sorting-spec: <a-z
 ---
 *Poecile palustris*
 

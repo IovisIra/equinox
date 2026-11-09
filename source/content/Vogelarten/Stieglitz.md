@@ -1,5 +1,6 @@
 ---
 title: Stieglitz
+sorting-spec: <a-z
 ---
 *Carduelis carduelis*
 

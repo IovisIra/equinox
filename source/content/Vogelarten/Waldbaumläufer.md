@@ -1,5 +1,6 @@
 ---
 title: Waldbaumläufer
+sorting-spec: <a-z
 ---
 *Certhia familiaris*
 

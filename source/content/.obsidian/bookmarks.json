@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1794167113767,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1794202923970,
+          "path": "index.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1794167118510,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Blaumeise.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Buchfink.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Zaunkönig.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Waldbaumläufer.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Sumpfmeise.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Stieglitz.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Rabenkrähe.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Kranich.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Kohlmeise.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Eichelhäher.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Buchfink.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202954979,
+              "path": "Vogelarten/Blaumeise.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Vogelarten"
+        },
+        {
+          "type": "group",
+          "ctime": 1794167113767,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1794202960676,
+              "path": "Vogelbeobachtungen/2026-11-08 Sonntag.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202960676,
+              "path": "Vogelbeobachtungen/2026-06-20 Samstag.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1794202960676,
+              "path": "Vogelbeobachtungen/2026-11-08 Sonntag.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Vogelbeobachtungen"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
