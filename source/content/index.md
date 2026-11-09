@@ -3,7 +3,7 @@ title: LifeList
 description: Meine persönliche LifeList der beobachteten Vogelarten.
 ---
 
-| Vogelart           | Erstbeobachtung        | Gehört | Gesehen | Foto |
+| Vogelart           | First sight            | Gehört | Gesehen | Foto |
 | ------------------ | ---------------------- | ------ | ------- | ---- |
 | [[Blaumeise]]      |                        | +      | +       |      |
 | [[Buchfink]]       |                        | +      | +       |      |
