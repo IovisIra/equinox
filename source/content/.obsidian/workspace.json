@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vogelarten/Sumpfmeise.md",
-                "mode": "preview",
+                "file": "Vogelarten/Stieglitz.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumpfmeise"
+              "title": "Stieglitz"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "afb16cbbe53e0002",
   "lastOpenFiles": [
+    "Vogelarten/Sumpfmeise.md",
     "Vogelarten/Waldbaumläufer.md",
     "Vogelarten/Zaunkönig.md",
     "Vogelarten/Stieglitz.md",
@@ -186,7 +187,6 @@
     "Vogelarten/Buchfink.md",
     "Vogelarten/Blaumeise.md",
     "Vogelarten/Rabenkrähe.md",
-    "Vogelarten/Sumpfmeise.md",
     "index.md",
     "Vogelbeobachtungen/2026-04-19 Sonntag.md",
     "Vogelbeobachtungen/2026-06-20 Samstag.md",
