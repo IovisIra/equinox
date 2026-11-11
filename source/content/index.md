@@ -11,7 +11,7 @@ description: Meine persönliche LifeList der beobachteten Vogelarten.
 | [[Kohlmeise]]      |                        | ++             |      |
 | [[Kranich]]        | [[2026-11-08 Sonntag]] | ++             |      |
 | [[Rabenkrähe]]     |                        | ++             |      |
-| [[Stieglitz]]      |                        | ++             | +    |
+| [[Stieglitz]]      | [[2026-04-19 Sonntag]] | ++             | +    |
 | [[Sumpfmeise]]     | [[2026-11-08 Sonntag]] | ++             |      |
 | [[Waldbaumläufer]] |                        | ++             | +    |
 | [[Zaunkönig]]      |                        | +-             |      |
