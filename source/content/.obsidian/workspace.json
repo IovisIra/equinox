@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "Vogelarten/Sumpfmeise.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Sumpfmeise"
             }
           }
         ]
@@ -177,20 +177,20 @@
   },
   "active": "afb16cbbe53e0002",
   "lastOpenFiles": [
-    "Vogelarten/Stieglitz.md",
-    "Vogelbeobachtungen/2026-04-19 Sonntag.md",
-    "Vogelbeobachtungen/2026-06-20 Samstag.md",
-    "Vogelbeobachtungen/2026-11-08 Sonntag.md",
-    "Vogelarten/Zaunkönig.md",
     "Vogelarten/Waldbaumläufer.md",
-    "Vogelarten/Sumpfmeise.md",
-    "Vogelarten/Rabenkrähe.md",
+    "Vogelarten/Zaunkönig.md",
+    "Vogelarten/Stieglitz.md",
     "Vogelarten/Kranich.md",
     "Vogelarten/Kohlmeise.md",
     "Vogelarten/Eichelhäher.md",
     "Vogelarten/Buchfink.md",
     "Vogelarten/Blaumeise.md",
+    "Vogelarten/Rabenkrähe.md",
+    "Vogelarten/Sumpfmeise.md",
     "index.md",
+    "Vogelbeobachtungen/2026-04-19 Sonntag.md",
+    "Vogelbeobachtungen/2026-06-20 Samstag.md",
+    "Vogelbeobachtungen/2026-11-08 Sonntag.md",
     "Vogelbeobachtungen/eieie.md",
     "Waldbaumläufer^08112026.md",
     "category-folder/Some note.md",

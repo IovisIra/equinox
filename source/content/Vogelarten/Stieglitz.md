@@ -1,7 +1,9 @@
 ---
 title: Stieglitz
 ---
-*Carduelis carduelis*
+*Carduelis carduelis*, Distelfink
+
+Erstbeobachtung: [[2026-04-19 Sonntag]]
 
 [[2026-06-20 Samstag]]:
 
