@@ -10,7 +10,7 @@ description: Meine persönliche LifeList der beobachteten Vogelarten.
 | [[Eichelhäher]]    |                        | ++             |         |
 | [[Kohlmeise]]      |                        | ++             |         |
 | [[Kornweihe]]      | [[2026-11-14 Samstag]] | -+             | ID      |
-| [[Kranich]]        | [[2026-11-08 Sonntag]] | ++             |         |
+| [[Kranich]]        | [[2026-11-08 Sonntag]] | ++             | ID      |
 | [[Rabenkrähe]]     |                        | ++             |         |
 | [[Silberreiher]]   |                        | -+             |         |
 | [[Stieglitz]]      | [[2026-04-19 Sonntag]] | ++             | Quality |
