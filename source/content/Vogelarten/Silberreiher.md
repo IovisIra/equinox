@@ -1,0 +1,4 @@
+---
+title: Silberreiher
+---
+*Ardea alba*
