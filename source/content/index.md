@@ -5,7 +5,7 @@ description: Meine persönliche LifeList der beobachteten Vogelarten.
 
 | Vogelart             | First sight            | Gehört/gesehen | Foto    |
 | -------------------- | ---------------------- | -------------- | ------- |
-| [[Blaumeise]]        |                        | ++             |         |
+| [[Blaumeise]]        |                        | ++             | ID      |
 | [[Buchfink]]         |                        | ++             |         |
 | [[Buntspecht]]       |                        | ++             |         |
 | [[Eichelhäher]]      |                        | ++             |         |

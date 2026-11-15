@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vogelarten/Stieglitz.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stieglitz"
+              "title": "index"
             }
           }
         ],
@@ -304,9 +304,10 @@
   },
   "active": "b7cc9dbca88d39e8",
   "lastOpenFiles": [
+    "Vogelarten/Stieglitz.md",
+    "Vogelarten/Stockente.md",
     "Vogelbeobachtungen/2026-06-20 Samstag.md",
     "index.md",
-    "Vogelarten/Stieglitz.md",
     "Vogelbeobachtungen/2026-11-08 Sonntag.md",
     "Vogelbeobachtungen/2026-11-15 Sonntag.md",
     "Vogelarten/Gartenbaumläufer.md",
@@ -317,7 +318,6 @@
     "Vogelarten/Mäusebussard.md",
     "Vogelarten/Waldbaumläufer.md",
     "Vogelarten/Sumpfmeise.md",
-    "Vogelarten/Stockente.md",
     "Vogelarten/Silberreiher.md",
     "Vogelarten/Reiherente.md",
     "Vogelarten/Rabenkrähe.md",
