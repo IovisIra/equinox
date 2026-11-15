@@ -21,7 +21,7 @@ description: Meine persönliche LifeList der beobachteten Vogelarten.
 | [[Reiherente]]       |                        | -+             |         |
 | [[Silberreiher]]     |                        | -+             | Quality |
 | [[Stieglitz]]        | [[2026-04-19 Sonntag]] | ++             | Quality |
-| [[Sumpfmeise]]       | [[2026-11-08 Sonntag]] | ++             |         |
+| [[Sumpfmeise]]       | [[2026-11-08 Sonntag]] | ++             | -       |
 | [[Waldbaumläufer]]   |                        | ++             | ID      |
 | [[Weißstorch]]       |                        | -+             |         |
 | [[Zaunkönig]]        |                        | +-             |         |
