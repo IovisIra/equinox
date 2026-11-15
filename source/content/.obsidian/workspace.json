@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Vogelbeobachtungen/2026-11-15 Sonntag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-11-15 Sonntag"
             }
           }
         ],
@@ -290,8 +290,8 @@
   },
   "active": "3d45c384a8d9845e",
   "lastOpenFiles": [
-    "Vogelarten/Zaunkönig.md",
     "index.md",
+    "Vogelarten/Zaunkönig.md",
     "Vogelbeobachtungen/2026-11-15 Sonntag.md",
     "Vogelbeobachtungen/2026-11-14 Samstag.md",
     "Vogelarten/Haubentaucher.md",
