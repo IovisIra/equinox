@@ -7,11 +7,14 @@ description: Meine persönliche LifeList der beobachteten Vogelarten.
 | ------------------ | ---------------------- | -------------- | ------- |
 | [[Blaumeise]]      |                        | ++             |         |
 | [[Buchfink]]       |                        | ++             |         |
+| [[Buntspecht]]     |                        |                |         |
 | [[Eichelhäher]]    |                        | ++             |         |
 | [[Kohlmeise]]      |                        | ++             |         |
 | [[Kornweihe]]      | [[2026-11-14 Samstag]] | -+             | ID      |
 | [[Kranich]]        | [[2026-11-08 Sonntag]] | ++             | ID      |
+| [[Mäusebussard]]   | [[2026-11-15 Sonntag]] | -+             | ID      |
 | [[Rabenkrähe]]     |                        | ++             |         |
+| [[Reiherente]]     |                        |                |         |
 | [[Silberreiher]]   |                        | -+             |         |
 | [[Stieglitz]]      | [[2026-04-19 Sonntag]] | ++             | Quality |
 | [[Sumpfmeise]]     | [[2026-11-08 Sonntag]] | ++             |         |
