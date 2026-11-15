@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "2026-11-15 Sonntag"
             }
+          },
+          {
+            "id": "b7cc9dbca88d39e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -288,15 +302,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d45c384a8d9845e",
+  "active": "b7cc9dbca88d39e8",
   "lastOpenFiles": [
-    "index.md",
-    "Vogelarten/Zaunkönig.md",
     "Vogelbeobachtungen/2026-11-15 Sonntag.md",
+    "index.md",
+    "Vogelarten/Gartenbaumläufer.md",
+    "Vogelarten/Gänsesäger.md",
+    "Vogelarten/Zaunkönig.md",
     "Vogelbeobachtungen/2026-11-14 Samstag.md",
     "Vogelarten/Haubentaucher.md",
     "Vogelarten/Mäusebussard.md",
-    "Vogelarten/Gänsesäger.md",
     "Vogelarten/Waldbaumläufer.md",
     "Vogelarten/Sumpfmeise.md",
     "Vogelarten/Stockente.md",
@@ -309,13 +324,11 @@
     "Vogelarten/Höckerschwan.md",
     "Vogelarten/Haussperling.md",
     "Vogelarten/Buntspecht.md",
-    "Vogelarten/Gartenbaumläufer.md",
     "Vogelbeobachtungen/2026-11-08 Sonntag.md",
     "Vogelbeobachtungen/2026-06-20 Samstag.md",
     "Vogelbeobachtungen/2026-04-19 Sonntag.md",
     "Vogelarten/Weißstorch.md",
     "Vogelarten/Kranich.md",
-    "Vogelarten/Blaumeise.md",
     "Unbenannt",
     "Vogelarten",
     "Vogelbeobachtungen",
