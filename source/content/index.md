@@ -19,7 +19,7 @@ description: Meine persönliche LifeList der beobachteten Vogelarten.
 | [[Mäusebussard]]     | [[2026-11-15 Sonntag]] | -+             | ID      |
 | [[Rabenkrähe]]       |                        | ++             |         |
 | [[Reiherente]]       |                        | -+             |         |
-| [[Silberreiher]]     |                        | -+             |         |
+| [[Silberreiher]]     |                        | -+             | Quality |
 | [[Stieglitz]]        | [[2026-04-19 Sonntag]] | ++             | Quality |
 | [[Sumpfmeise]]       | [[2026-11-08 Sonntag]] | ++             |         |
 | [[Waldbaumläufer]]   |                        | ++             | ID      |
