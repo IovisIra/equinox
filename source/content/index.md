@@ -9,6 +9,8 @@ description: Meine persönliche LifeList der beobachteten Vogelarten.
 | [[Buchfink]]       |                        | ++             |         |
 | [[Buntspecht]]     |                        |                |         |
 | [[Eichelhäher]]    |                        | ++             |         |
+| [[Gänsesäger]]     | [[2026-11-15 Sonntag]] | -+             | ID      |
+| [[Haussperling]]   |                        | ++             | ID      |
 | [[Kohlmeise]]      |                        | ++             |         |
 | [[Kornweihe]]      | [[2026-11-14 Samstag]] | -+             | ID      |
 | [[Kranich]]        | [[2026-11-08 Sonntag]] | ++             | ID      |

@@ -1,0 +1,4 @@
+---
+title: Höckerschwan
+---
+*Cygnus olor*

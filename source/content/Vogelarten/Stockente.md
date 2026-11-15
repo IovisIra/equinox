@@ -1,0 +1,4 @@
+---
+title: Stockente
+---
+*Anas platyrhynchos*
